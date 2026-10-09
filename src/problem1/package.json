@@ -1,0 +1,8 @@
+{
+  "name": "problem1-sum-to-n",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node run.js"
+  }
+}
